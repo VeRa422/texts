@@ -1,0 +1,39 @@
+{
+  "title": "НАЗВАНИЕ ВАШЕЙ ИГРЫ",
+  "levels": {
+    "1": [
+      {
+        "question": "2+2",
+        "options": [
+          "4",
+          "5",
+          "65"
+        ],
+        "correct": 0
+      }
+    ],
+    "2": [],
+    "3": []
+  },
+  "levelMeta": {
+    "1": {
+      "name": "",
+      "assets": {}
+    },
+    "2": {
+      "name": "",
+      "assets": {}
+    },
+    "3": {
+      "name": "",
+      "assets": {}
+    }
+  },
+  "settings": {
+    "lives": "5",
+    "timer": "15",
+    "welcomeText": "Готовы проверить свои знания?",
+    "startBtnText": "СТАРТ!",
+    "lang": "en"
+  }
+}
